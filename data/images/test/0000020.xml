@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dosa</folder>
+	<filename>0000020.jpg</filename>
+	<path>/home/anupam/Downloads/dosa/0000020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dosa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>81</ymin>
+			<xmax>753</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>
