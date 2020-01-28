@@ -1,0 +1,38 @@
+<annotation>
+	<folder>aloo paratha</folder>
+	<filename>1000061.jpg</filename>
+	<path>/home/anupam/downloads/aloo paratha/1000061.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aloo_paratha</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>353</ymin>
+			<xmax>797</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aloo_paratha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>239</ymin>
+			<xmax>287</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>
