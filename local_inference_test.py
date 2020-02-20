@@ -31,7 +31,7 @@ if __name__ == "__main__":
         "--model",
         help="Path to the frozen graph .pb file.",
         type=str,
-        default="./models/frozen_inference_graph.pb",
+        default="/home/ankit/Documents/resnet101/frozen_inference_graph.pb",
     )
 
     parser.add_argument(
